@@ -13,6 +13,7 @@ public  class Demo1 {
     }
     public static void function3(){
         int x=3;
+
         System.out.println(x);
     }
     public static void main(String args[]){
